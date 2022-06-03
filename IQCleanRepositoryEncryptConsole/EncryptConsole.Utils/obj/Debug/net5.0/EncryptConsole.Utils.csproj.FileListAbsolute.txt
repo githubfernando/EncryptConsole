@@ -1,0 +1,12 @@
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\bin\Debug\net5.0\EncryptConsole.Utils.deps.json
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\bin\Debug\net5.0\EncryptConsole.Utils.dll
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\bin\Debug\net5.0\ref\EncryptConsole.Utils.dll
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\bin\Debug\net5.0\EncryptConsole.Utils.pdb
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\obj\Debug\net5.0\EncryptConsole.Utils.csprojAssemblyReference.cache
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\obj\Debug\net5.0\EncryptConsole.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\obj\Debug\net5.0\EncryptConsole.Utils.AssemblyInfoInputs.cache
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\obj\Debug\net5.0\EncryptConsole.Utils.AssemblyInfo.cs
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\obj\Debug\net5.0\EncryptConsole.Utils.csproj.CoreCompileInputs.cache
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\obj\Debug\net5.0\EncryptConsole.Utils.dll
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\obj\Debug\net5.0\ref\EncryptConsole.Utils.dll
+D:\IT_Agile\CleanRepository.Transversal.WindowsClient\IQCleanRepositoryEncryptConsole\EncryptConsole.Utils\obj\Debug\net5.0\EncryptConsole.Utils.pdb
